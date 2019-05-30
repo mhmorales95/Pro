@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     int menor = 100;
-    //HOLAAAAAAAAAAAAAA
+    //HOLA
     long tiempoI = System.currentTimeMillis();
     ArrayList<Button> botones = new ArrayList<>();
     @Override
